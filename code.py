@@ -1,4 +1,4 @@
-"""Main purpose of this module is to calculate age in days of any person"""
+"""Working with datetime module"""
 import datetime
 
 
