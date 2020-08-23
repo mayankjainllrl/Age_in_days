@@ -10,3 +10,5 @@ Date of Birth
 
 #### Output
 Age in days
+
+##### Note :- Program  returns 0 in any invalid date of birth
